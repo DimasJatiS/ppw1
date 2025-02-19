@@ -11,11 +11,9 @@
                 tetapi      browser 
         akan mengabaikannya
         </p>
-
         <p>
             Sedangkan yang ini memiliki                spasi panjang
         </p>
-
         <p align="center">
             Jumlah baris dalam setiap paragraf tergantung pada ukuran window browser Anda. 
             Bila Anda mengubah ukuran window browser, jumlah baris dalam paragraf akan berubah.
